@@ -1,4 +1,4 @@
-package gotutorialnana
+package main
 
 import "fmt"
 
