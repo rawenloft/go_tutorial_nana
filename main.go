@@ -50,7 +50,6 @@ func main() {
 		if remainingTickets == 0 {
 			// end program
 			fmt.Printf("Our conference is booked out. Come back next year!")
-			break
 		}
 	} else {
 
